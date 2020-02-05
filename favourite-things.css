@@ -1,0 +1,16 @@
+h1 {
+    font-style: italic;
+    font-size: 20px;
+    color: blueviolet;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    line-height: 0px;
+}
+body {
+    background-color: chartreuse;
+}
+ul, li, strong {
+    font-style: italic;
+}
+ul, li, em {
+    font-style: bold;
+}
